@@ -2,11 +2,14 @@
   "products":[
     {
       "id": "1",
-      "name": "foo"
+      "name": "foo",
+      "description:": "askldaklsdjkalsjd asd ak asdklajsdlkasjd"
     },
     {
       "id": "2",
-      "name": "bar"
+      "name": "bar",
+      "description:": "askldakl asdlkas laklsdlaksdsdjkalsjdklajsdlkasjd"
     }
   ]
+
 }
