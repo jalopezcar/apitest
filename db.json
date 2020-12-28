@@ -3,12 +3,12 @@
     {
       "id": "1",
       "name": "foo",
-      "description:": "askldaklsdjkalsjd asd ak asdklajsdlkasjd"
+      "text:": "askldaklsdjkalsjd asd ak asdklajsdlkasjd"
     },
     {
       "id": "2",
       "name": "bar",
-      "description:": "askldakl asdlkas laklsdlaksdsdjkalsjdklajsdlkasjd"
+      "text:": "askldakl asdlkas laklsdlaksdsdjkalsjdklajsdlkasjd"
     }
   ]
 
